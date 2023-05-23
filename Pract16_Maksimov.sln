@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pract16_Maksimov", "Pract16_Maksimov\Pract16_Maksimov.csproj", "{C7D81988-C7DA-4D9A-B684-35AE86401E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pract16_1_Forms", "Pract16_1_Forms\Pract16_1_Forms.csproj", "{FB030295-405C-4F5D-82D0-42E08F3D1569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7D81988-C7DA-4D9A-B684-35AE86401E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D81988-C7DA-4D9A-B684-35AE86401E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D81988-C7DA-4D9A-B684-35AE86401E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D81988-C7DA-4D9A-B684-35AE86401E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB030295-405C-4F5D-82D0-42E08F3D1569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB030295-405C-4F5D-82D0-42E08F3D1569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB030295-405C-4F5D-82D0-42E08F3D1569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB030295-405C-4F5D-82D0-42E08F3D1569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
